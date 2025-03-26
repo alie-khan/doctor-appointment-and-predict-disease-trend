@@ -1,0 +1,70 @@
+  .container {
+    max-width: 900px;
+    margin-top: 50px;
+  }
+  
+  .navbar {
+    margin-bottom: 30px;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .navbar-brand {
+    font-size: 1.7rem;
+  }
+  
+  .display-4 {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .alarms-list {
+    margin-top: 40px;
+  }
+  
+  .alarms-list h3 {
+    color: #007bff;
+  }
+  
+  .alarms-list .list-group-item {
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .alarms-list .list-group-item .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .alarms-list .list-group-item .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+  }
+  
+  .modal-header {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .modal-body {
+    background-color: #f8f9fa;
+  }
+  
+  form .form-control {
+    margin-bottom: 15px;
+  }
+  
+  form button {
+    width: 100%;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }

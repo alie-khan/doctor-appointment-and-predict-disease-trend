@@ -1,0 +1,16 @@
+  /* Main Content Styles */
+  main {
+    flex-grow: 1;
+    background-color: #eff2f5;
+    overflow-y: auto;
+  }
+  .active-link {
+    background: linear-gradient(to right, #667eea, #764ba2);
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .active-link:hover {
+    opacity: 0.9;
+  }
